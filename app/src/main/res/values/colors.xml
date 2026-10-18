@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#D32F2F</color> <!-- الأحمر الإسعافي -->
+    <color name="primary_dark">#B71C1C</color>
+    <color name="accent">#FF5252</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="danger_critical">#D32F2F</color>
+    <color name="danger_medium">#F57C00</color>
+    <color name="danger_low">#388E3C</color>
+</resources>

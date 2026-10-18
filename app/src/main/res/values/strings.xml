@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">بطل الإسعافات</string>
+
+    <!-- الشاشة الرئيسية -->
+    <string name="search_hint">ابحث عن حالة طوارئ (مثلاً: حروق)...</string>
+    <string name="main_title">بطل الإسعافات الأولية</string>
+
+    <!-- شاشة التفاصيل -->
+    <string name="steps_title">خطوات الإسعاف السريع:</string>
+    <string name="symptoms_label">الأعراض: %1$s</string>
+    <string name="danger_level_label">مستوى الخطورة: %1$s</string>
+
+    <!-- القائمة -->
+    <string name="action_contacts">أرقام الطوارئ</string>
+    <string name="action_history">سجل الحالات</string>
+    <string name="action_stats">الإحصائيات</string>
+
+    <!-- أرقام الطوارئ -->
+    <string name="emergency_public_title">أرقام الطوارئ العامة</string>
+    <string name="emergency_custom_title">أرقامك المخصصة</string>
+    <string name="ambulance">الإسعاف</string>
+    <string name="fire_department">الدفاع المدني (الإطفاء)</string>
+    <string name="add_contact">إضافة رقم</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="enter_all_fields">يرجى ملء جميع الحقول</string>
+
+    <!-- سجل الحالات -->
+    <string name="history_title">سجل الحالات المعالجة</string>
+    <string name="add_history_title">تسجيل حالة معالجة</string>
+    <string name="case_desc_hint">وصف الحالة الطارئة</string>
+    <string name="case_proc_hint">الإجراءات الإسعافية التي قمت بها</string>
+    <string name="procedures_label">الإجراءات: %1$s</string>
+    <string name="empty_history">لا توجد حالات مسجلة</string>
+    <string name="no_search_results">لم يتم العور على نتائج</string>
+
+    <!-- الإحصاءات -->
+    <string name="stats_title">إحصاءات الحالات</string>
+    <string name="stats_summary">ملخص تصنيف الحالات</string>
+</resources>

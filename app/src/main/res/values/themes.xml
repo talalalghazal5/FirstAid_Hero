@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- النمط الأساسي للتطبيق -->
+    <style name="Theme.FirstAidHero" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- الألوان الأساسية -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <!-- ألوان الحالة والنوافذ -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/gray_light</item>
+
+        <!-- دعم الاتجاه من اليمين لليسار -->
+        <item name="android:layoutDirection">rtl</item>
+    </style>
+</resources>
